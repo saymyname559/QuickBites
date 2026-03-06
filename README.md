@@ -1,2 +1,4 @@
 # QuickBites
-Pizza Store
+Online Food ordering System Using PHP
+
+posting Sql soon.
